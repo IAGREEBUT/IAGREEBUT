@@ -54,7 +54,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="lyujeong.lee@gmail.com">
+  <a href="lyujeong.dev@gmail.com">
     <img
       src="https://img.shields.io/badge/lyujeong.lee@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
