@@ -56,6 +56,6 @@
 <div align="center">
   <a href="lyujeong.dev@gmail.com">
     <img
-      src="https://img.shields.io/badge/lyujeong.lee@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/lyujeong.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
